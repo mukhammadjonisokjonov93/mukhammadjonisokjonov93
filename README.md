@@ -2,7 +2,7 @@
 
 I'm a Front-End Developer.
 
-<br />
+<br>
 
 ### Languages and tools I work with:
 
