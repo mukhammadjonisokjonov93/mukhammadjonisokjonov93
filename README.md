@@ -12,6 +12,6 @@ I'm a Frontend Developer.
 
 <br />
 
-- 📍 &nbsp; Current location: Namangan, Uzbekistan
+- 📍 &nbsp;  Current location: Namangan, Uzbekistan
 - 📝 &nbsp; Ask me about anything, I'm happy to help
 - 📨 &nbsp; How to reach me: [@mukhammadjonisokjonov](https://instagram.com/mukhammadjonisokjonov/)
